@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# SPider News Portfolio Project
 
 Project Spider News is a React Project showing an best showcase of using different API's together.
 Spider News is Responsive Website made by using following API's
