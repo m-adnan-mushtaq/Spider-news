@@ -1,4 +1,4 @@
-# SPider News Portfolio Project
+# Spider News React Api based Project
 
 Project Spider News is a React Project showing an best showcase of using different API's together.
 Spider News is Responsive Website made by using following API's
